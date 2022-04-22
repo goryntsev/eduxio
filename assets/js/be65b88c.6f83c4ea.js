@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgorysaurus=self.webpackChunkgorysaurus||[]).push([[518],{4041:function(s){s.exports=JSON.parse('{"allTagsPath":"/eduxio/blog/tags","name":"hello","count":2,"permalink":"/eduxio/blog/tags/hello"}')}}]);
