@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgorysaurus=self.webpackChunkgorysaurus||[]).push([[86],{1857:function(s){s.exports=JSON.parse('{"permalink":"/eduxio/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

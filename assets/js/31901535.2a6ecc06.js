@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgorysaurus=self.webpackChunkgorysaurus||[]).push([[193],{9070:function(o){o.exports=JSON.parse('{"permalink":"/eduxio/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
