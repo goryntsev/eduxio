@@ -4,7 +4,9 @@
  * work well for content-centric websites.
  */
 
- @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap&subset=cyrillic');
+ /* @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap&subset=cyrillic'); */
+
+ @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap&subset=cyrillic');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -16,7 +18,7 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
-  --ifm-font-family-base: "Source Serif Pro";
+  --ifm-font-family-base: Merriweather;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
