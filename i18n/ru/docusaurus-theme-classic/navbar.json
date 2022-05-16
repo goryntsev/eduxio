@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Eduxio",
+    "description": "The title in the navbar"
+  },
+  "item.label.Библиотека": {
+    "message": "Библиотека",
+    "description": "Navbar item with label Библиотека"
+  }
+}
