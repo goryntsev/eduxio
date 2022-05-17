@@ -117,6 +117,7 @@ const config = {
         max: 1030,
         min: 640,
         steps: 2,
+        disableInDev: false,
       }),
     ],
   ],
