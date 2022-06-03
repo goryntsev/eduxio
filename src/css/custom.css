@@ -42,3 +42,21 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Переношу кнопку меню, которая появляется на узких экранах, из левого в правый
+ * угол, чтобы было удобно нажимать пальцем правой руки на смартфоне. */
+.navbar__items{
+  flex-direction: row-reverse;
+}
+
+.navbar__brand {
+  margin-right: auto;
+}
+
+/* Переношу панель меню, которая появляется на узких экранах, с левого края на
+ * правый, туда, где теперь кнопка вызова меню. */
+.navbar-sidebar {
+  left: unset;
+  right: 0;
+  transform: translate3d(100%, 0, 0);
+}
