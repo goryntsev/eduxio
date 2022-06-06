@@ -4,6 +4,8 @@ title: Ich habe gehört, ihr wollt nichts lernen
 id: brecht
 sidebar_position: 0
 sidebar_label: Ich habe gehört...
+pagination_prev: null
+pagination_next: null
 ---
 
 *Bertolt Brecht, 1932*

@@ -7,6 +7,7 @@
 // import footerConfig from "./footer.config"; не заработало...
 const footerConfig = require("./footer.config.js");
 
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
