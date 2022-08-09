@@ -17,8 +17,10 @@ async function createConfig() {
   return ({
     title: 'eduxio',
     tagline: 'Учись любить учиться!',
-    url: 'https://goryntsev.github.com',
-    baseUrl: '/eduxio/',
+    // url: 'https://goryntsev.github.com',
+    url: 'https://eduxio.ru',
+    // baseUrl: '/eduxio/',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
