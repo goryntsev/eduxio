@@ -61,3 +61,34 @@
 .sd-row__question {
   white-space: normal;
 }
+
+/* Стиль для кнопок, содран с bootstrap */
+.btn {
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  padding: .375em .75em;
+  transition: background-color .5s;
+}
+
+@media (max-width: 600px) {
+  .btn  {
+    width: 100%;
+}
+
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: var(--ifm-color-primary-darker);
+  border-color: var(--ifm-color-primary-dark);
+}
