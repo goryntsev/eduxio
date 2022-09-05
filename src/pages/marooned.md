@@ -65,5 +65,3 @@ import img from "./pics/atoll.jpg";
 - Одна пластиковая зажигалка
 
 Необходимо проранжировать варианты действий в этой ситуации в порядке значимости для вашего выживания.
-
-<a class="btn btn-primary" href="https://goryntsev.github.io/marooned-quiz/" target="_blank">Перейти к решению →</a>
