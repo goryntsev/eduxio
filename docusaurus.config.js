@@ -31,7 +31,7 @@ async function createConfig() {
 
     i18n: {
       defaultLocale: "ru",
-      locales: ["ru", "en"],
+      locales: ["ru"],
       localeConfigs: {
         ru: {
           htmlLang: "ru-RU",
