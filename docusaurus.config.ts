@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 import remarkGfm from 'remark-gfm';
 
 const config: Config = {
-  title: 'Чтиво',
-  favicon: 'books_logo.svg',
+  title: 'Библиотека',
+  favicon: 'img/cell.png',
   future: {
     v4: true,
   },
@@ -60,7 +60,7 @@ const config: Config = {
       items: [ ],
       logo: {
         alt: 'Библиотека',
-        src: 'books_logo.svg',
+        src: 'img/cell.png',
         // srcDark: 'books_white.svg',
       },
     },
@@ -68,7 +68,7 @@ const config: Config = {
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
-      respectPrefersColorScheme: true,
+      respectPrefersColorScheme: false,
     },
  
     prism: {
