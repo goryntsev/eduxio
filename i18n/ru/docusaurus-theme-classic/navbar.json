@@ -3,8 +3,8 @@
     "message": "",
     "description": "The title in the navbar"
   },
-  "item.label.Содержание": {
-    "message": "Библиотека",
+  "item.label.Библиотека": {
+    "message": "",
     "description": "Navbar item with label Библиотека"
   }
 }

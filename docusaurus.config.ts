@@ -57,7 +57,8 @@ const config: Config = {
     navbar: {
       title: '',
       hideOnScroll: true,
-      items: [ ],
+      items: [
+      ],
       logo: {
         alt: 'Библиотека',
         src: 'img/cell.png',
